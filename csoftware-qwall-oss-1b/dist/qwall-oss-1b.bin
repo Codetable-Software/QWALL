@@ -1,0 +1,28 @@
+{
+  "name": "QWall-OSS-1B",
+  "series": "1B",
+  "type": "mathematics",
+  "operations": {
+    "+": {
+      "a": 1,
+      "b": 1,
+      "bias": 0
+    },
+    "-": {
+      "a": 1,
+      "b": 1,
+      "bias": 0
+    },
+    "*": {
+      "a": 1,
+      "b": 1,
+      "bias": 0
+    },
+    "/": {
+      "a": 1,
+      "b": 1,
+      "bias": 0
+    }
+  },
+  "samples": 985
+}

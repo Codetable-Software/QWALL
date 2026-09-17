@@ -1,0 +1,9 @@
+.io
+.env*
+!.env.example
+cache/*
+build/*
+.DS_STORE
+.local
+node_modules/*
+.git/*
