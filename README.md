@@ -1,13 +1,2 @@
- ## QWALL
-QWALL is a small language model (slm) created by Codetable Software 
-
-QWALL model:
-- QWALL OSS 1B
-
-QWALL Series:
-- 1B
-
-Open-Source: yes
-
-License:
-- Apache License 2.0
+QWALL — An open-source AI model & SLM (Small Language Model) developed by Codetable Software.
+Licensed by Apache License 2.0
